@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(182, 139, 171);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: unset;
+    font-weight: 100;
+    text-align: center;
+   
+}
+h3 {
+    color: rgb(233, 182, 217);
+    text-align: center;
+}
+ol {
+    color: rgb(233, 182, 217);
+    
+}
+p {
+    color: rgb(182, 139, 171);
+    text-align: center;
+    width: 50%;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 19px;
+    background-color: rgba(255, 255, 255, 0.80);
+    border-width: 5px;
+    border-style: ridge;
+    border-color: rgb(182, 139, 171);
+}
+
+body {
+    background-image: url(../Images/black\ hearts\ background.jpg);
+    background-size: 190%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 19px;
+    border-width: 5px;
+    border-style: ridge;
+    border-color: rgb(182, 139, 171);
+}
